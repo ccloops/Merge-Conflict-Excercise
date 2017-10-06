@@ -1,2 +1,3 @@
-This is what Bob & Carol did on Bob's computer when working on the first feature.
-whats long hard and full of seamen.... a submarine!!!!!!!
+## Goodday Frens!
+
+## Yes, it's red!
